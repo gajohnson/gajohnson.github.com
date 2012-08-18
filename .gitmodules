@@ -1,0 +1,3 @@
+[submodule "ingemi"]
+	path = ingemi
+	url = git@github.com:gajohnson/ingemi.git
